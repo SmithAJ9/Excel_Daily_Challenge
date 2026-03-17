@@ -1,34 +1,41 @@
-# Day1_Practice_Challenge
-Excel data audit and cleaning project using enrollment dataset.
+# Excel_Daily_Challenge
 Title
-Excel Data Audit and Analysis, Enrollment Dataset
 
-Project Overview
-This project audits, cleans, and analyzes an enrollment dataset using Microsoft Excel. The goal is to identify data quality issues, correct errors, and prepare the dataset for analysis.
+Excel Data Audit and Analysis Projects
 
-Dataset
-The dataset contains student enrollment records with fields related to enrollment information. The raw data included issues such as missing values, duplicate entries, and inconsistent records.
+Overview
 
-Data Quality Audit
-The dataset was reviewed to identify common data issues.
+This repository contains Excel projects focused on data auditing, data cleaning, and basic data analysis. Each project works with a dataset that contains common data quality issues such as duplicates, missing values, and inconsistent entries. The goal of these projects is to practice identifying data issues, cleaning datasets, and preparing data for analysis.
 
-• checked for duplicate records using COUNTIF
-• identified missing values in key columns
-• reviewed inconsistent or unusual entries
+Datasets
+
+The datasets used in these projects contain structured records such as enrollment data, sales records, or other tabular datasets. Many of the raw datasets include common data problems such as duplicate rows, missing values, and inconsistent formatting.
+
+Data Quality Auditing
+
+Each dataset is first reviewed to identify potential data quality problems.
+
+• checking duplicate records using formulas such as COUNTIF
+• identifying missing values in important columns
+• reviewing unusual or inconsistent records
+• verifying row counts and dataset consistency
 
 Data Cleaning
-Steps taken to improve data quality.
 
-• removed or flagged duplicate records
-• corrected inconsistent values
-• standardized formatting across columns
-• prepared a cleaned dataset for analysis
+After the audit, the datasets are cleaned to prepare them for analysis.
+
+• flagging or removing duplicate records
+• correcting inconsistent values
+• standardizing formatting across columns
+• handling missing values where necessary
 
 Analysis
-After cleaning the dataset, pivot tables and basic Excel analysis were used to summarize the data.
 
-• summarized enrollment records across categories
-• calculated counts and distributions of records
+Once the datasets are cleaned, Excel tools are used to summarize and analyze the data.
+
+• Pivot Tables for summarizing records
+• counts and category distributions
+• simple aggregations and summaries
 
 Tools Used
 
@@ -36,27 +43,30 @@ Tools Used
 • Excel formulas
 • Pivot Tables
 • filtering and sorting
+• basic data validation
 
-Key Findings
+Skills Demonstrated
 
-• duplicate records were detected in the dataset
-• some fields contained missing values
-• cleaning improved the reliability of the analysis
+• data quality auditing
+• data cleaning
+• duplicate detection
+• handling missing data
+• dataset preparation for analysis
+• basic exploratory analysis in Excel
 
 Project Files
 
-• Excel workbook containing raw data, audit checks, cleaned data, and analysis sheets
-
-How to Use
-
-Download the Excel file from this repository and open it in Microsoft Excel.
-Navigate through the sheets in the following order.
+Each Excel file in this repository contains several sheets that show the full workflow.
 
 • Raw_Data
 • Data_Audit
 • Cleaned_Data
-• Analysis sheets
+• Analysis
+
+How to Use
+
+Download any Excel workbook from the repository and open it in Microsoft Excel. Review the sheets in order to see the full data audit, cleaning process, and analysis.
 
 What I Learned
 
-This project improved my ability to audit datasets, clean data using Excel formulas, and perform basic analysis using pivot tables.
+These projects strengthened my ability to audit datasets, clean messy data using Excel formulas, and summarize information using Pivot Tables.
